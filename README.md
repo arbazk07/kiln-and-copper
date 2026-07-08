@@ -1,6 +1,6 @@
-# Ember & Salt 🔥
+# Kiln & Copper 🔥
 
-A one-page marketing site for **Ember & Salt**, a fictional wood-fired, downtown restaurant. Built as a single self-contained HTML file — no build step, no dependencies, no backend.
+A one-page marketing site for **Kiln & Copper**, a fictional wood-fired, downtown restaurant. Built as a single self-contained HTML file — no build step, no dependencies, no backend.
 
 **Demo site — built for preview purposes.**
 
